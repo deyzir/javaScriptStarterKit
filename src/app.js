@@ -1,4 +1,4 @@
-console.log("Merhaba Kodlama.io")
+console.log("Merhaba Kodlama.io");
 
 //JS type safe değildir
 let dolarBugun = 9.30
@@ -33,4 +33,5 @@ console.log("</ul>")
     <li>Kamu Konut Kredisi</li>
 </ul> */}
 
-console.log(konutKredileri)
+ console.log(konutKredileri)
+
